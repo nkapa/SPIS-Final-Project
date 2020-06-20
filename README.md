@@ -1,7 +1,6 @@
-# finalproject-Elsa-Nandini
-# This program illustrates how to capture frames in a video stream and
-# and how to do extract pixels of a specific color
-# It uses openCV
+# SPIS Final Project - Elsa Taylor and Nandini Kapa
+# This program illustrates how to capture frames in a video stream and how to do extract pixels of a specific color.
+# It uses openCV.
 
 import picamera
 import picamera.array                                   # This needs to be imported explicitly
